@@ -1,4 +1,4 @@
-module github.com/thundertanuki/contentful-go
+module github.com/prasanth08/contentful-go
 
 go 1.12
 
